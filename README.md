@@ -20,14 +20,14 @@ Welcome to my GitHub page! I’m Arnaldo Sepulveda, an AI Developer and Real Est
 ### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-<!--  -->
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+<!--  -->
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Apollo Server](https://img.shields.io/badge/-Apollo%20Server-311C87?style=flat-square&logo=apollographql&logoColor=white)
 <!--  -->
 ![LangChain.js](https://img.shields.io/badge/-LangChain.js-3399FF?style=flat-square&logo=chain&logoColor=white)
-
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ### Tools & Platforms
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
