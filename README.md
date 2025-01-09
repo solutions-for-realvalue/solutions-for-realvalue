@@ -1,13 +1,17 @@
 # 🌍 Solutions for Real Value
-Welcome to my GitHub page! I’m Arnaldo Sepulveda, an AI Developer and Real Estate Tech Innovator passionate about simplifying complex challenges with data-driven solutions.
+Welcome to my GitHub page! I’m **Arnaldo Sepulveda**, a seasoned Senior Cloud Engineer and lifelong learner with a passion for solving complex problems through data-driven solutions, technical expertise, and innovative approaches.
+
 
 ---
 
 ## 👋 About Me
-- 🔍 Interests: Real estate analytics, resource optimization, and sustainability.
-- 📚 Currently pursuing: **Information Technology: Business and Advanced Analytics.**
-- 💡 Learning: Python, R, Pandas, and NumPy.
-<!-- - 💡 Learning: Python, R, Claude AI, Mistral AI, TensorFlow, Pandas, and NumPy. -->
+- 🛠 **Problem Solver**: I thrive on tackling challenges, finding solutions, and delivering results.
+- 📚 **Experience**: Over 12 years of expertise in cloud engineering, technical integrations, and AI-driven innovations.
+- 💡 **Learning Focus**: Currently expanding my knowledge in Python, R, Machine Learning, and Advanced Analytics as part of the **Business and Advanced Analytics Program**.
+- 🤝 **Strengths**:
+  - Troubleshooting technical issues in SaaS applications.
+  - Building custom integrations using JavaScript, Node.js, and APIs.
+  - Using data insights to drive strategic decisions and improve user experiences.
 
 ---
 
@@ -17,7 +21,7 @@ Welcome to my GitHub page! I’m Arnaldo Sepulveda, an AI Developer and Real Est
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-<!-- ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) -->
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 ### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -56,7 +60,7 @@ Welcome to my GitHub page! I’m Arnaldo Sepulveda, an AI Developer and Real Est
 ### Deployment & Misc
 ![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 ![MVC Architecture](https://img.shields.io/badge/-MVC%20Architecture-000000?style=flat-square)
-![Quill](https://img.shields.io/badge/-Quill-22B8CF?style=flat-square&logo=quill&logoColor=white)
+<!-- ![Quill](https://img.shields.io/badge/-Quill-22B8CF?style=flat-square&logo=quill&logoColor=white) -->
 
 ---
 
@@ -80,9 +84,9 @@ Welcome to my GitHub page! I’m Arnaldo Sepulveda, an AI Developer and Real Est
 
 ## 🤝 Collaboration
 I’m looking to collaborate on:
-- AI solutions for real estate and business challenges.
-- Tools for energy optimization, demand forecasting, and sustainability.
-- Projects that simplify complex problems with creative AI applications.
+- AI-driven tools for business, real estate, and resource optimization.
+- Projects requiring integration of APIs or SaaS solutions.
+- Innovative solutions for streamlining workflows and improving user experiences.
 
 ---
 
@@ -92,4 +96,4 @@ I’m looking to collaborate on:
 
 ---
 
-⚡ **Fun Fact**: I started as an engineer and transitioned into AI to blend logic and creativity. I love turning data into actionable insights that tell impactful stories.
+⚡ **Fun Fact**: I’m passionate about continuous learning and finding creative ways to turn data into actionable insights.
