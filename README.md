@@ -1,7 +1,6 @@
 # 🌍 Solutions for Real Value
 Welcome to my GitHub page! I’m **Arnaldo Sepulveda**, a seasoned Senior Cloud Engineer and lifelong learner with a passion for solving complex problems through data-driven solutions, technical expertise, and innovative approaches.
 
-
 ---
 
 ## 👋 About Me
@@ -75,9 +74,7 @@ Welcome to my GitHub page! I’m **Arnaldo Sepulveda**, a seasoned Senior Cloud 
 ### Contribution Highlights
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solutions-for-realvalue&show_icons=true&theme=radical)
 <!--  -->
-![GitHub Streak](https://streak-stats.demolab.com?user=solutions-for-realvalue&theme=radical&hide_border=true)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=solutions-for-realvalue&theme=radical&hide_border=true) -->
-
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solutions-for-realvalue&layout=compact&theme=radical)
