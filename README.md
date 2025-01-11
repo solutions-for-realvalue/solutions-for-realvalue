@@ -42,9 +42,9 @@ Welcome to my GitHub page! I’m **Arnaldo Sepulveda**, a seasoned Senior Cloud 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![GitHub Gist](https://img.shields.io/badge/-GitHub%20Gist-181717?style=flat-square&logo=github&logoColor=white)
 <!-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) -->
 <!-- ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F48120?style=flat-square&logo=cloudflare&logoColor=white) -->
-<!-- ![GitHub Gist](https://img.shields.io/badge/-GitHub%20Gist-181717?style=flat-square&logo=github&logoColor=white) -->
 
 ### AI Models
 ![GPT-4](https://img.shields.io/badge/-GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
@@ -75,7 +75,8 @@ Welcome to my GitHub page! I’m **Arnaldo Sepulveda**, a seasoned Senior Cloud 
 ### Contribution Highlights
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solutions-for-realvalue&show_icons=true&theme=radical)
 <!--  -->
-![GitHub Streak](https://streak-stats.demolab.com?user=solutions-for-realvalue&theme=radical&hide_border=true)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=solutions-for-realvalue&theme=radical&hide_border=true) -->
+
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solutions-for-realvalue&layout=compact&theme=radical)
