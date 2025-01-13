@@ -1,16 +1,15 @@
 # 🌍 Solutions for Real Value
-Welcome to my GitHub page! I’m **Arnaldo Sepulveda**, a passionate AI and Data enthusiast with a strong background in Cloud Engineering and a commitment to building innovative, data-driven solutions for real-world problems.
+Welcome to my GitHub page! I’m **Arnaldo Sepulveda**, a seasoned Senior Cloud Engineer, AI enthusiast, and problem solver. I specialize in creating data-driven solutions, technical innovations, and seamless integrations for real-world challenges.
 
 ---
 
 ## 👋 About Me
-- 🛠 **Problem Solver**: I excel at tackling technical challenges and delivering efficient solutions.
-- 📚 **Experience**: Over a decade of expertise in Cloud Engineering, SaaS integrations, and AI-driven innovations.
-- 💡 **Learning Focus**: Currently expanding my skills in Python, R, Data Management, and Machine Learning through the **Business and Advanced Analytics Program** at NBCC.
-- 🤝 **Strengths**:
-  - Building AI-powered solutions using OpenAI, Hugging Face, and LangChain.js.
-  - Advanced troubleshooting and API integrations in data ecosystems.
-  - Data Governance, Data Quality, and Business Analytics.
+- 🛠 **Problem Solver**: With over a decade of expertise in Cloud Engineering and SaaS integrations, I thrive on tackling complex challenges with creative solutions.
+- 📚 **Learning Focus**: Pursuing the **IT: Business and Advanced Analytics** program at NBCC, while mastering AI-driven tools through the **Scrimba AI Engineer Path**.
+- 💡 **Technical Expertise**:
+  - Building AI-powered tools using OpenAI, Hugging Face, and LangChain.js.
+  - Advanced data management, API integrations, and SaaS application support.
+  - Driving data quality, governance, and observability initiatives.
 
 ---
 
@@ -63,33 +62,17 @@ Welcome to my GitHub page! I’m **Arnaldo Sepulveda**, a passionate AI and Data
 ---
 
 ## 🔨 Current Projects
-- **[RentOps](https://github.com/solutions-for-realvalue/RentOps):** A platform automating rental operations for property owners using IoT and AI analytics.
-- **[Airbnb Insights](https://github.com/solutions-for-realvalue/Airbnb-Insights):** AI-driven analysis of Airbnb listings for improved booking outcomes.
-- **[Data Explorer](https://github.com/solutions-for-realvalue/Data-Explorer):** A tool to visualize and analyze structured and unstructured data using Python and Power BI.
-- **Scrimba AI Projects**: Repositories demonstrating hands-on AI capabilities:
-  - [LangChain Chatbot](https://github.com/solutions-for-realvalue/LangChain-Chatbot): A chatbot leveraging LangChain for context-aware responses.
-  - [Claude AI Summarizer](https://github.com/solutions-for-realvalue/Claude-Summarizer): Text summarization powered by Claude AI.
-  - [Mistral RAG Engine](https://github.com/solutions-for-realvalue/Mistral-RAG): Retrieval-augmented generation for data insights.
-  - [OpenAI Movie Chatbot](https://github.com/solutions-for-realvalue/Movie-Chatbot): Interactive chatbot with fine-tuned datasets.
-<!-- - **Real Estate Forecasting:** Leveraging machine learning to predict market trends and optimize investments. -->
-
----
-
-## 📊 GitHub Stats
-### Contribution Highlights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solutions-for-realvalue&show_icons=true&theme=radical)
-<!--  -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=solutions-for-realvalue&theme=radical&hide_border=true) -->
-<!--### Top Languages -->
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solutions-for-realvalue&layout=compact&theme=radical) -->
+- **[RentOps](https://github.com/solutions-for-realvalue/RentOps):** Automating rental operations with IoT and AI-driven analytics.
+- **[Airbnb Insights](https://github.com/solutions-for-realvalue/Airbnb-Insights):** AI-driven tools to optimize Airbnb listing performance.
+- **[LangChain Chatbot](https://github.com/solutions-for-realvalue/LangChain-Chatbot):** Context-aware chatbot leveraging LangChain.js.
+- **[Data Explorer](https://github.com/solutions-for-realvalue/Data-Explorer):** Visualizing structured and unstructured data using Python and Power BI.
 
 ---
 
 ## 🤝 Collaboration
-I’m eager to collaborate on:
-- **AI-Driven Solutions**: Developing tools for business, real estate, and resource optimization.
-- **API & SaaS Integrations**: Crafting seamless and scalable system connections.
-- **Innovative Workflows**: Streamlining processes to enhance user experiences and decision-making.
+- **AI & Data Solutions**: Building innovative tools for real estate, business, and resource optimization.
+- **Cloud Integration**: Developing scalable APIs and seamless SaaS integrations.
+- **Business Analytics**: Designing data-driven workflows for improved decision-making.
 
 ---
 
@@ -100,5 +83,5 @@ I’m eager to collaborate on:
 ---
 
 ## ⚡ Fun Fact
-I’m passionate about continuous learning and transforming data into actionable insights that drive innovation and impact.
+I love transforming data into actionable insights to drive innovation and improve user experiences.
 
