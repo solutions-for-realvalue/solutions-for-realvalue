@@ -80,24 +80,25 @@ Welcome to my GitHub page! I’m **Arnaldo Sepulveda**, a passionate AI and Data
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solutions-for-realvalue&show_icons=true&theme=radical)
 <!--  -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=solutions-for-realvalue&theme=radical&hide_border=true) -->
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solutions-for-realvalue&layout=compact&theme=radical)
+<!--### Top Languages -->
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solutions-for-realvalue&layout=compact&theme=radical) -->
 
 ---
 
 ## 🤝 Collaboration
-I’m looking to collaborate on:
-- AI-driven tools for business, real estate, and resource optimization.
-- Projects requiring integration of APIs or SaaS solutions.
-- Innovative solutions for streamlining workflows and improving user experiences.
+I’m eager to collaborate on:
+- **AI-Driven Solutions**: Developing tools for business, real estate, and resource optimization.
+- **API & SaaS Integrations**: Crafting seamless and scalable system connections.
+- **Innovative Workflows**: Streamlining processes to enhance user experiences and decision-making.
 
 ---
 
-📫 **Contact Me**:  
+## 📫 Contact Me  
 - [LinkedIn](https://www.linkedin.com/in/arnaldo-sepulveda)  
-- **Email:** natureuplift@protonmail.com  
+- **Email:** [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
 
 ---
 
-⚡ **Fun Fact**: I’m passionate about continuous learning and finding creative ways to turn data into actionable insights.
+## ⚡ Fun Fact
+I’m passionate about continuous learning and transforming data into actionable insights that drive innovation and impact.
+
