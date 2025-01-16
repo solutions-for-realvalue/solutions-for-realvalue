@@ -1,15 +1,15 @@
-# 🌍 Solutions for Real Value
-Welcome to my GitHub page! I’m **Arnaldo Sepulveda**, a seasoned Senior Cloud Engineer, AI enthusiast, and problem solver. I specialize in creating data-driven solutions, technical innovations, and seamless integrations for real-world challenges.
+# 🌍 Data-Driven Problem Solver | Empowering Transformative Insights
+Welcome to my GitHub page! I’m **Arnaldo Sepulveda**, a passionate Cloud Engineer and AI enthusiast committed to building innovative solutions that maximize the transformative potential of data and AI.
 
 ---
 
 ## 👋 About Me
-- 🛠 **Problem Solver**: With over a decade of expertise in Cloud Engineering and SaaS integrations, I thrive on tackling complex challenges with creative solutions.
-- 📚 **Learning Focus**: Pursuing the **IT: Business and Advanced Analytics** program at NBCC, while mastering AI-driven tools through the **Scrimba AI Engineer Path**.
-- 💡 **Technical Expertise**:
-  - Building AI-powered tools using OpenAI, Hugging Face, and LangChain.js.
-  - Advanced data management, API integrations, and SaaS application support.
-  - Driving data quality, governance, and observability initiatives.
+- 🛠 **Problem Solver**: Over a decade of expertise in Cloud Engineering, SaaS integrations, and customer success.
+- 📚 **Learning Focus**: Currently advancing my skills in Data Quality, Data Governance, and Observability through the **IT: Business and Advanced Analytics Program** at NBCC and the **Scrimba AI Engineer Path**.
+- 💡 **Core Competencies**:
+  - Advanced troubleshooting of SaaS integrations and data ecosystems.
+  - Proficient in SQL, APIs, XML/XSLT, and Linux shell scripting.
+  - Experience with AI-driven tools like OpenAI, Hugging Face, and LangChain.js.
 
 ---
 
@@ -34,18 +34,24 @@ Welcome to my GitHub page! I’m **Arnaldo Sepulveda**, a seasoned Senior Cloud 
 <!-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) -->
 
 ### Tools & Platforms
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 <!-- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) -->
-<!-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) -->
 <!-- ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) -->
 <!-- ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white) -->
 <!-- ![GitHub Gist](https://img.shields.io/badge/-GitHub%20Gist-181717?style=flat-square&logo=github&logoColor=white) -->
 <!-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) -->
 <!-- ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F48120?style=flat-square&logo=cloudflare&logoColor=white) -->
+
+### Integration & Observability
+![SOAP](https://img.shields.io/badge/-SOAP-0082C9?style=flat-square)
+![REST](https://img.shields.io/badge/-REST-02569B?style=flat-square)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square)
+![XML](https://img.shields.io/badge/-XML-8A2BE2?style=flat-square)
 
 ### AI Models
 ![GPT-4](https://img.shields.io/badge/-GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
@@ -66,6 +72,9 @@ Welcome to my GitHub page! I’m **Arnaldo Sepulveda**, a seasoned Senior Cloud 
 - **[Airbnb Insights](https://github.com/solutions-for-realvalue/Airbnb-Insights):** AI-driven tools to optimize Airbnb listing performance.
 - **[LangChain Chatbot](https://github.com/solutions-for-realvalue/LangChain-Chatbot):** Context-aware chatbot leveraging LangChain.js.
 - **[Data Explorer](https://github.com/solutions-for-realvalue/Data-Explorer):** Visualizing structured and unstructured data using Python and Power BI.
+<!-- - **Data Governance Toolkit:** Tools for data profiling, data quality assessment, and governance. -->
+<!-- - **APIs & Integrations Lab:** Experimenting with integration frameworks for SaaS systems. -->
+
 
 ---
 
@@ -84,4 +93,3 @@ Welcome to my GitHub page! I’m **Arnaldo Sepulveda**, a seasoned Senior Cloud 
 
 ## ⚡ Fun Fact
 I love transforming data into actionable insights to drive innovation and improve user experiences.
-
