@@ -81,7 +81,7 @@ Welcome to my GitHub page! I’m **Arnaldo Sepulveda**, a passionate Cloud Engin
 ### Contribution Highlights
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solutions-for-realvalue&show_icons=true&theme=radical)
 <!--  -->
-![GitHub Streak](https://streak-stats.demolab.com?user=solutions-for-realvalue&theme=radical&hide_border=true)
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=solutions-for-realvalue&theme=radical&hide_border=true) -->
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solutions-for-realvalue&layout=compact&theme=radical)
 
