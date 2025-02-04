@@ -47,3 +47,37 @@ Welcome to my **GitHub page**! I’m **Arnaldo Sepulveda**, a **Cloud Support En
 
 ---
 
+## 🚀 DevOps Portfolio Projects  
+
+### 1️⃣ **[Linux Environment Setup & Command Cheat Sheet](#)**  
+✅ **Set up a Linux VM** (or WSL) and created a command cheat sheet.  
+✅ **Practiced system administration & shell scripting** for automation.  
+
+### 2️⃣ **[Version Control & Git Best Practices](#)**  
+✅ **Mastered Git workflows**, branching strategies, and GitHub Actions.  
+
+### 3️⃣ **[Containerizing a Web Application with Docker](#)**  
+✅ **Built & containerized a full-stack app** using Docker.  
+
+### 4️⃣ **[Deploying Applications with Kubernetes](#)**  
+✅ **Deployed applications** to Kubernetes with **Minikube & Helm Charts**.  
+
+### 5️⃣ **[CI/CD Pipeline with GitHub Actions](#)**  
+✅ **Automated deployment pipelines** using GitHub Actions.  
+
+### 6️⃣ **[Infrastructure as Code with Terraform](#)**  
+✅ **Provisioned cloud resources** (AWS EC2, S3, IAM) using Terraform.  
+
+### 7️⃣ **[Configuration Management with Ansible](#)**  
+✅ **Automated server configurations** & app deployments with Ansible.  
+
+### 8️⃣ **[Monitoring & Logging with Prometheus & Grafana](#)**  
+✅ **Implemented monitoring & alerts** for infrastructure health.  
+
+### 9️⃣ **[Enhanced CI/CD with Automated Testing](#)**  
+✅ **Integrated automated testing** into DevOps pipelines.  
+
+🔗 **[Full DevOps Portfolio Repository](https://github.com/solutions-for-realvalue/DevOps-Journey)**  
+
+---
+
