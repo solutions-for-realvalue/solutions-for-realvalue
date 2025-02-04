@@ -112,3 +112,9 @@ This now **aligns more with DevOps, Cloud, and AI**, while keeping **data and bu
 
 ---
 
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solutions-for-realvalue&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solutions-for-realvalue&layout=compact&theme=radical)  
+
+---
