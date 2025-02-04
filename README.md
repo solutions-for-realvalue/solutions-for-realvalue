@@ -118,3 +118,12 @@ This now **aligns more with DevOps, Cloud, and AI**, while keeping **data and bu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solutions-for-realvalue&layout=compact&theme=radical)  
 
 ---
+
+## 🤝 Collaboration  
+
+I am always open to collaborating on **DevOps, Cloud Infrastructure, and AI-powered automation** projects.  
+
+💡 Looking to **connect, collaborate, or learn together**? Feel free to reach out!  
+
+---
+
