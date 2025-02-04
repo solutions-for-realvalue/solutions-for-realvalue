@@ -135,3 +135,7 @@ For any questions about this project, please contact me via:
 - [**LinkedIn**](https://www.linkedin.com/in/arnaldo-sepulveda)  
 
 ---
+
+## ⚡ Fun Fact  
+
+I love **automating everything**—from infrastructure deployments to optimizing workflows with AI! 🚀  
