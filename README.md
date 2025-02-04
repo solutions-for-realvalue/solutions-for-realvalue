@@ -127,3 +127,11 @@ I am always open to collaborating on **DevOps, Cloud Infrastructure, and AI-powe
 
 ---
 
+## 📧 Contact  
+
+For any questions about this project, please contact me via:  
+
+- **Email**: [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
+- [**LinkedIn**](https://www.linkedin.com/in/arnaldo-sepulveda)  
+
+---
