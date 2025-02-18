@@ -99,10 +99,6 @@ Welcome to my **GitHub page**! I’m **Arnaldo Sepulveda**, a **Cloud Support En
 
 ---
 
-This now **aligns more with DevOps, Cloud, and AI**, while keeping **data and business analytics tools** relevant. 🚀
-
----
-
 ## 🚀 DevOps Portfolio Projects  
 
 ### 1️⃣ **[Linux Environment Setup & Command Cheat Sheet](#)**  
