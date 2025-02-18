@@ -25,16 +25,41 @@ Welcome to my **GitHub page**! I’m **Arnaldo Sepulveda**, a **Cloud Support En
 
 ## 🛠️ Tech Stack  
 
-### **DevOps & Cloud**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
+### **DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+### **Frameworks & Libraries**
+![LangChain.js](https://img.shields.io/badge/-LangChain.js-3399FF?style=flat-square&logo=chain&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD800?style=flat-square&logo=huggingface&logoColor=black)
+
+### **CI/CD & Automation**
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+### **Monitoring & Observability**
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![ELK Stack](https://img.shields.io/badge/-ELK-005571?style=flat-square&logo=elasticstack&logoColor=white)
+
+### **Databases & Storage**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### **Integration & APIs**
+![SOAP](https://img.shields.io/badge/-SOAP-0082C9?style=flat-square) ![REST](https://img.shields.io/badge/-REST-02569B?style=flat-square) ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square) ![XML](https://img.shields.io/badge/-XML-8A2BE2?style=flat-square)
+
+### **AI & ML Models**
+![GPT-4](https://img.shields.io/badge/-GPT--4-412991?style=flat-square&logo=openai&logoColor=white) ![Claude AI](https://img.shields.io/badge/-Claude%20AI-8A2BE2?style=flat-square&logo=OpenAI&logoColor=white) ![Mistral AI](https://img.shields.io/badge/-Mistral%20AI-0057E7?style=flat-square&logo=artstation&logoColor=white) ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+
+<!-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)  
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)  
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)   -->
 
-### **Programming Languages**  
+<!-- ### **Programming Languages**  
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue)  
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)  
@@ -70,7 +95,7 @@ Welcome to my **GitHub page**! I’m **Arnaldo Sepulveda**, a **Cloud Support En
 ![GPT-4](https://img.shields.io/badge/-GPT--4-412991?style=flat-square&logo=openai&logoColor=white)  
 ![Claude AI](https://img.shields.io/badge/-Claude%20AI-8A2BE2?style=flat-square&logo=OpenAI&logoColor=white)  
 ![Mistral AI](https://img.shields.io/badge/-Mistral%20AI-0057E7?style=flat-square&logo=artstation&logoColor=white)  
-![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)  
+![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)   -->
 
 ---
 
