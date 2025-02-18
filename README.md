@@ -131,12 +131,12 @@ Welcome to my **GitHub page**! I’m **Arnaldo Sepulveda**, a **Cloud Support En
 
 🔗 **[Full DevOps Portfolio Repository](https://github.com/solutions-for-realvalue/DevOps-Journey)**  
 
----
+<!-- ---
 
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solutions-for-realvalue&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solutions-for-realvalue&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solutions-for-realvalue&layout=compact&theme=radical)   -->
 
 ---
 
