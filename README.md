@@ -85,20 +85,18 @@ Welcome to my **GitHub Portfolio**! I’m **Arnaldo Sepulveda**, a **Cloud Engin
 
 ---
 
-## 🤝 Collaboration
+## 🤝 **Collaboration & Open Source**  
 
-I’m eager to collaborate on **Azure-based infrastructure projects**, **cost optimization** strategies, or **DevOps transformations**.  
-- Strengths include bridging siloed teams, building secure CI/CD workflows, and delivering SaaS/PaaS solutions that meet both business and compliance requirements.
+I'm always open to **collaborating on DevOps, Cloud Infrastructure, and AI-powered automation projects**. If you're working on something exciting in these areas, feel free to connect! 🚀  
 
----
-
-## 📧 Contact
-
-- **Email**: [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
-- **LinkedIn**: [linkedin.com/in/arnaldo-sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
+📩 **Email**: [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
+🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)  
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ **Fun Fact**  
+I love **automating everything**—from cloud deployments to workflow optimizations with AI!  
 
-I’ve jumped head-first into multi-cloud—since **innovation** often comes from exploring fresh environments and embracing new best practices. Excited to share that journey here!
+---
+
+### **🔥 Let’s Build Scalable, Automated & AI-Driven Cloud Solutions Together! 🚀**
