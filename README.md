@@ -77,13 +77,13 @@ Welcome to my **GitHub Portfolio**! I’m **Arnaldo Sepulveda**, a **Cloud Engin
 🔗 **[See My Full DevOps Portfolio](https://github.com/solutions-for-realvalue/DevOps-Journey)**  
 
 ---
-
+<!-- 
 ## 📊 **GitHub Stats**  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solutions-for-realvalue&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solutions-for-realvalue&layout=compact&theme=radical)  
 
----
+--- -->
 
 ## 🤝 **Collaboration & Open Source**  
 
