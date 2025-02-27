@@ -57,29 +57,31 @@ Welcome to my **GitHub Portfolio**! I’m **Arnaldo Sepulveda**, a **Cloud Engin
 
 ---
 
-## 🚀 DevOps & Cloud Portfolio
+## 🚀 **DevOps & Cloud Portfolio Projects**  
 
-1. **Azure Resource Deployment & ARM Templates**  
-   - Provisioned Virtual Machines, Virtual Networks, Storage Accounts via ARM/CLI  
-   - Enforced security policies with NSGs and encryption-by-default
+### 1️⃣ **[Automated Azure VM Deployment (Terraform & Ansible)](#)**  
+✅ **Automated Azure VM provisioning using Terraform & Ansible playbooks**.  
 
-2. **AWS + Terraform Project**  
-   - Automated EC2, S3, IAM roles setup via Terraform  
-   - Implemented cost alerts and tagging for budgeting
+### 2️⃣ **[Kubernetes on Azure AKS: Scalable App Deployment](#)**  
+✅ **Deployed a containerized application on AKS with Helm Charts**.  
 
-3. **Dockerized Web App**  
-   - Built container images and utilized Azure Container Registry  
-   - Deployed to Azure Kubernetes Service (AKS) with Helm for scaling
+### 3️⃣ **[CI/CD Pipeline with GitHub Actions & Terraform](#)**  
+✅ **Built an automated infrastructure deployment pipeline**.  
 
-4. **CI/CD with GitHub Actions & Azure DevOps**  
-   - Created pipelines for automated build, test, and deploy to Azure Web Apps  
-   - Secured secrets in Azure Key Vault; integrated with pipeline approvals
+### 4️⃣ **[Cloud Security Best Practices (IAM, RBAC, NSGs)](#)**  
+✅ **Configured security policies for least privilege access & compliance**.  
 
-5. **Monitoring & Alerting**  
-   - Deployed Azure Monitor & Log Analytics to manage performance & cost  
-   - Set up Prometheus + Grafana for container metrics & custom dashboards
+### 5️⃣ **[AI-Driven Cloud Monitoring & Cost Optimization](#)**  
+✅ **Implemented AI-based monitoring for resource optimization in Azure**.  
 
-For more details, check out my **[DevOps-Journey Repository](https://github.com/solutions-for-realvalue/DevOps-Journey)**.
+🔗 **[See My Full DevOps Portfolio](https://github.com/solutions-for-realvalue/DevOps-Journey)**  
+
+---
+
+## 📊 **GitHub Stats**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solutions-for-realvalue&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solutions-for-realvalue&layout=compact&theme=radical)  
 
 ---
 
