@@ -1,6 +1,6 @@
-# 🚀 DevOps Engineer | Cloud & AI Enthusiast | Infrastructure Automation  
+# 🚀  Cloud & DevOps Engineer | AI-Driven Automation | Infrastructure as Code
 
-Welcome to my **GitHub page**! I’m **Arnaldo Sepulveda**, a **Cloud Support Engineer** transitioning into **DevOps Engineering**. I specialize in **cloud infrastructure, automation, CI/CD pipelines, and AI-driven optimizations** to enhance software development workflows.  
+Welcome to my **GitHub Portfolio**! I’m **Arnaldo Sepulveda**, a **Cloud Engineer** transitioning into **DevOps Engineering**. My passion lies in **cloud infrastructure, automation, CI/CD pipelines, and AI-powered optimizations** that drive **efficiency, scalability, and reliability** in modern IT environments.  
 
 ---
 
@@ -8,18 +8,17 @@ Welcome to my **GitHub page**! I’m **Arnaldo Sepulveda**, a **Cloud Support En
 
 - 🌎 **Cloud & DevOps Enthusiast**: Over a decade of experience in **Cloud Engineering, SaaS integrations, and troubleshooting mission-critical applications**.  
 - 📚 **Current Learning Focus**:  
-  - **DevOps & Cloud Automation** *(CI/CD, Kubernetes, Terraform, Ansible, AWS, Azure)*  
-  - **AI-Driven Infrastructure Optimization** *(ML-based monitoring, AI in DevOps)*  
-  - **Data Engineering & Business Analytics** *(Big Data, SQL, NoSQL, Cloud Data Pipelines)*  
-- 🎓 **Education**:  
-  - **Graduate Diploma in Information Technology: Business & Advanced Analytics** *(NBCC – Ongoing)*  
-  - **Full Stack Web Development Bootcamp – Completed with Honors**  
-- 💡 **Core Competencies**:  
-  - **Cloud Infrastructure**: AWS, Azure, Linux  
-  - **CI/CD Pipelines**: GitHub Actions, Jenkins  
-  - **Automation & Scripting**: Python, Bash, Terraform, Ansible  
-  - **Containerization & Orchestration**: Docker, Kubernetes, Helm  
-  - **Monitoring & Logging**: Prometheus, Grafana  
+  - **Cloud Infrastructure & DevOps Automation** *(AWS, Azure, Linux, Terraform, Ansible, Kubernetes, CI/CD)*  
+  - **AI-Driven Cloud Optimization** *(ML-based monitoring, anomaly detection, and predictive scaling)*  
+  - **Data Infrastructure & Business Analytics** *(Big Data, SQL, NoSQL, Data Pipelines in the Cloud)*  
+- 🎓 **Education & Certifications**:  
+  - 🎓 **Graduate Diploma in Information Technology: Business & Advanced Analytics** *(NBCC – Ongoing)*  
+  - 🎓 **Full Stack Web Development Bootcamp – Completed with Honors**  
+  - 🔹 **Certifications (Planned & In Progress)**:  
+    - **AZ-900** *(Microsoft Azure Fundamentals – In Progress)*  
+    - **AZ-104** *(Microsoft Azure Administrator – Next Goal)*  
+    - **AWS Certified Cloud Practitioner** *(Planned)*  
+    - **Terraform Associate** *(Planned)* 
 
 ---
 
