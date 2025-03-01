@@ -60,27 +60,20 @@ Welcome to my GitHub portfolio! I’m **Arnaldo Sepulveda**, a seasoned **Senior
 
 Follow my structured journey mastering Azure—from fundamentals (AZ-900) to real-world cloud solutions.
 
+---
+
 ## 🌟 Featured Azure Projects
-
-- [Azure Infrastructure Automation with Terraform](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
-- [Kubernetes Application Deployment on AKS](https://github.com/solutions-for-realvalue/AKS-Kubernetes-Deployment)
-- [Cloud Security & Compliance](https://github.com/solutions-for-realvalue/Azure-Security-Compliance)
-- [Monitoring & Cost Management](https://github.com/solutions-for-realvalue/Azure-Monitoring-CostManagement)
-
-
-
-## 🚀 Relevant Cloud Projects
 
 ### ✅ [Azure Infrastructure Automation with Terraform](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
 Automated deployment of Azure resources (VMs, Storage, Network) with Terraform.
 
-### 🚀 [Kubernetes Application Deployment on AKS](#)
+### 🚀 [Kubernetes Application Deployment on AKS](https://github.com/solutions-for-realvalue/AKS-Kubernetes-Deployment)
 Deployed a scalable containerized web application using Azure Kubernetes Service (AKS).
 
-### 🛡️ Cloud Security & Compliance
+### 🛡️ [Cloud Security & Compliance](https://github.com/solutions-for-realvalue/Azure-Security-Compliance)
 Implemented security best practices including RBAC, Azure Policy, and Azure Security Center.
 
-### 📈 Monitoring & Cost Management
+### 📈 [Monitoring & Cost Management](https://github.com/solutions-for-realvalue/Azure-Monitoring-CostManagement)
 Deployed Azure Monitor with custom dashboards and alerts for performance and cost optimization.
 
 ---
