@@ -1,6 +1,6 @@
 # ☁️ Senior Cloud Specialist | Azure Infrastructure | DevOps & Automation
 
-Welcome to my GitHub portfolio! I’m **Arnaldo Sepulveda**, a seasoned **Cloud Engineer** currently transitioning into a **Senior Cloud Specialist** role. I specialize in designing, deploying, and optimizing secure and efficient **Azure cloud infrastructure** to support business-critical applications and services.
+Welcome to my GitHub portfolio! I’m **Arnaldo Sepulveda**, a seasoned **Senior Cloud Engineer** currently transitioning into a **Azure Cloud Specialist** role. I specialize in designing, deploying, and optimizing secure and efficient **Azure cloud infrastructure** to support business-critical applications and services.
 
 ---
 
