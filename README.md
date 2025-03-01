@@ -56,9 +56,22 @@ Welcome to my GitHub portfolio! I’m **Arnaldo Sepulveda**, a seasoned **Senior
 
 ---
 
+## 🚀 [My Cloud Specialist Journey](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey)
+
+Follow my structured journey mastering Azure—from fundamentals (AZ-900) to real-world cloud solutions.
+
+## 🌟 Featured Azure Projects
+
+- [Azure Infrastructure Automation with Terraform](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
+- [Kubernetes Application Deployment on AKS](https://github.com/solutions-for-realvalue/AKS-Kubernetes-Deployment)
+- [Cloud Security & Compliance](https://github.com/solutions-for-realvalue/Azure-Security-Compliance)
+- [Monitoring & Cost Management](https://github.com/solutions-for-realvalue/Azure-Monitoring-CostManagement)
+
+
+
 ## 🚀 Relevant Cloud Projects
 
-### ✅ [Azure Infrastructure Automation with Terraform](#)
+### ✅ [Azure Infrastructure Automation with Terraform](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
 Automated deployment of Azure resources (VMs, Storage, Network) with Terraform.
 
 ### 🚀 [Kubernetes Application Deployment on AKS](#)
