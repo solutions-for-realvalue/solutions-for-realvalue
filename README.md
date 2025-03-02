@@ -73,8 +73,8 @@ Follow my structured journey mastering Azure—from fundamentals (AZ-900) to rea
 
 ## 🌟 Featured Azure Projects
 
-### ✅ [Azure Infrastructure Automation with Terraform](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
-Automated deployment of Azure resources (VMs, Storage, Network) with Terraform.
+### ✅ [Azure & AWS Infrastructure Automation with Terraform](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
+Automated deployment of Azure & AWS resources (VMs, Storage, Network) with Terraform.
 
 ### 🚀 [Kubernetes Application Deployment on AKS](https://github.com/solutions-for-realvalue/AKS-Kubernetes-Deployment)
 Deployed a scalable containerized web application using Azure Kubernetes Service (AKS).
@@ -83,7 +83,7 @@ Deployed a scalable containerized web application using Azure Kubernetes Service
 Implemented security best practices including RBAC, Azure Policy, and Azure Security Center.
 
 ### 📈 [Monitoring & Cost Management](https://github.com/solutions-for-realvalue/Azure-Monitoring-CostManagement)
-Deployed Azure Monitor with custom dashboards and alerts for performance and cost optimization.
+Deployed Azure Monitor and AWS CloudWatch with dashboards and alerts for performance and cost optimization.
 
 ---
 
