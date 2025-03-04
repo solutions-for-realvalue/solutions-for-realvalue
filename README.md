@@ -90,7 +90,7 @@ Welcome to my **GitHub Portfolio**! I’m **Arnaldo Sepulveda**, a **Cloud Engin
 I'm always open to **collaborating on DevOps, Cloud Infrastructure, and AI-powered automation projects**. If you're working on something exciting in these areas, feel free to connect! 🚀  
 
 📩 **Email**: [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
-🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)  
+<!-- 🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)  -->
 
 ---
 
