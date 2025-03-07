@@ -52,6 +52,7 @@ Welcome to my GitHub portfolio! I’m **Arnaldo Sepulveda**, a seasoned **Senior
 ### Programming & Scripting
 
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
