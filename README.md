@@ -46,6 +46,7 @@ Welcome to my GitHub portfolio! I’m **Arnaldo Sepulveda**, a seasoned **Senior
 ![AWS CloudFormation](https://img.shields.io/badge/-AWS%20CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### Programming & Scripting
