@@ -68,6 +68,7 @@ Welcome to my GitHub portfolio! I’m **Arnaldo Sepulveda**, a seasoned **Senior
 ### Observability & Cost Management
 
 ![Azure Monitor](https://img.shields.io/badge/-Azure%20Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
 ![AWS CloudWatch](https://img.shields.io/badge/-AWS%20CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
