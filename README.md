@@ -1,142 +1,112 @@
-# Senior Cloud Engineer | Azure & AWS Specialist | DevOps & AI Automation
+# **Senior Cloud Engineer | Azure Specialist | DevOps & AI Automation**
 
-Welcome to my GitHub portfolio! I'm **Arnaldo Sepulveda**, a seasoned **Senior Cloud Engineer** specializing in secure, scalable, and automated cloud solutions across **Azure** and **AWS**. My expertise includes **Infrastructure as Code (IaC)**, **cloud security**, **AI-driven automation**, and **SaaS integrations**.
+Welcome to my GitHub portfolio! I'm **Arnaldo Sepulveda**, a **Senior Cloud Engineer** specializing in **Azure cloud solutions, DevOps automation, and AI-driven optimizations**. My expertise spans **Infrastructure as Code (IaC)**, **Cloud Security**, and **SaaS integrations**.
+
+I am currently **reviewing AZ-900, preparing for AZ-104, and implementing hands-on labs** to enhance my cloud expertise. Follow my **[Cloud Specialist Journey](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/Journal.md)** for a structured learning roadmap and hands-on implementations.
 
 ---
 
-## About Me
+## **About Me**
 
-* **Cloud Expertise**: 10+ years of professional experience delivering reliable cloud solutions, infrastructure automation, SaaS integrations, and advanced troubleshooting.
+* **Cloud Expertise**: 12+ years in IT, delivering **reliable cloud infrastructure**, **automation**, and **SaaS integrations**.
 * **Current Learning Focus**:
-  * **Azure Infrastructure** *(Compute, Storage, Networking)*
-  * **IaC & Automation** *(Terraform, ARM Templates, Ansible)*
-  * **Cloud Security & Compliance** *(Azure Security Center, RBAC, AWS IAM)*
-  * **AI & ML Integrations** *(Azure AI, OpenAI API, Python)*
+  * **AZ-900: Azure Fundamentals** *(Reviewing Concepts & Labs)*
+  * **AZ-104: Azure Administrator** *(Preparing for Certification)*
+  * **Hands-on Cloud Labs & Implementations** *(DevOps, Terraform, Kubernetes)*
+  * **Security & Compliance** *(RBAC, IAM, Azure Defender, Cost Optimization)*
 * **Education & Certifications**:
   * **M.Sc. & B.Sc. in Electrical Engineering** *(University of New Brunswick)*
-  * **Full Stack Web Development Certificate (Honors)** *(University of New Brunswick)*
-* **Certifications**:
-  * **AZ-900** *(Azure Fundamentals - In Progress)*
-  * **Next: AZ-104** *(Azure Administrator)*
+  * **Full Stack Web Development Certificate** *(University of New Brunswick)*
+  * **AZ-900 (In Progress), AZ-104 (Next Goal)**
 
 ---
 
-## Technical Skills
+## **My Cloud Specialist Journey**
 
-### Cloud & Infrastructure
+Explore my structured **Azure Cloud Learning Path**:
 
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure Virtual Machines](https://img.shields.io/badge/-Azure%20VMs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/-Azure%20SQL-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure Networking](https://img.shields.io/badge/-Azure%20Networking-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS VPC](https://img.shields.io/badge/-AWS%20VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure Security](https://img.shields.io/badge/-Azure%20Security-0057E7?style=flat-square&logo=microsoftazure&logoColor=white)
+### **[AZ-900: Microsoft Azure Fundamentals](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/Journal.md) (In Progress)**
+- **[Define Cloud Computing](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/1-Describe-Cloud-Computing/1.1-Define-Cloud-Computing.md)**
+- **[Azure Core Services](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/2-Describe-Azure-Architecture-Services/2.1-Core-Architecture.md)**
+- **[Azure Management & Governance](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/3-Describe-Azure-Management-Governance/3.1-Cost-Management.md)**
+- **[Hands-On Labs](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/tree/main/AZ-900-Fundamentals/Hands-On-Labs)**
 
-### Automation & IaC
+### **AZ-104: Microsoft Azure Administrator (Upcoming)**
+- Managing **Azure identities & access**
+- Implementing **storage & compute solutions**
+- Deploying **virtual networks, security, & monitoring**
 
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS CloudFormation](https://img.shields.io/badge/-AWS%20CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+### **Hands-On Lab Implementations**
 
-### Programming & Scripting
+- [**Create an Azure VM**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab1-Create-Azure-VM.md)
+- [**Configure Storage**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab2-Configure-Storage.md)
+- [**Setup Network Security**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab3-Setup-Network-Security.md)
+- [**Identity & Access Management**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab4-Identity-Access-Management.md)
+- [**Azure Pricing Calculator**](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey/blob/main/AZ-900-Fundamentals/Hands-On-Labs/Lab5-Azure-Pricing-Calculator.md)
 
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-### Databases & Data Management
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Observability & Cost Management
-
-![Azure Monitor](https://img.shields.io/badge/-Azure%20Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS CloudWatch](https://img.shields.io/badge/-AWS%20CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
-## [My Cloud Specialist Journey](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey)
+## **Technical Skills**
 
-Follow my structured journey mastering Azure—from fundamentals (AZ-900) to real-world cloud solutions.
+### **Cloud & Infrastructure**
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+### **Automation & IaC**
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### **Security & Compliance**
+![RBAC](https://img.shields.io/badge/-RBAC-0057E7?style=flat-square) ![IAM](https://img.shields.io/badge/-IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
-## Featured Azure Projects
+## **Featured Azure Projects (Upcoming)**
 
 ### [Azure & AWS Infrastructure Automation with Terraform](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
-
-Automated deployment of Azure & AWS resources (VMs, Storage, Network) with Terraform.
-
-* **Learning Resources:** [AZ-900](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-with-simulations/), [AZ-104](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/), [Terraform 101](https://www.udemy.com/course/terraform-101-azure-edition/)
-* **Learning Outcome:** Automate Azure resource provisioning (VMs, Storage, Networking)
+✅ Automated **Azure & AWS deployments** using Terraform.
 
 ### [Kubernetes Application Deployment on AKS](https://github.com/solutions-for-realvalue/AKS-Kubernetes-Deployment)
-
-Deployed a scalable containerized web application using Azure Kubernetes Service (AKS).
-
-* **Learning Resources:** [Kubernetes on Azure](https://www.udemy.com/course/terraform-on-azure-services/), [AZ-104](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
-* **Learning Outcome:** Deploy scalable containerized workloads using Kubernetes on Azure
+✅ Deployed **scalable containerized applications** using Kubernetes & Helm.
 
 ### [Cloud Security & Compliance](https://github.com/solutions-for-realvalue/Azure-Security-Compliance)
-
-Implemented security best practices including RBAC, Azure Policy, and Azure Security Center.
-
-* **Learning Resources:** [SC-900](https://www.udemy.com/course/sc-900-microsoft-security-compliance-identity-with-sims), [Azure Security Best Practices](https://www.udemy.com/course/azure-security-best-practices/)
-* **Learning Outcome:** Implement IAM, RBAC, NSGs, and Defender for Cloud
+✅ Implemented **RBAC, Azure Policy, and Defender for Cloud**.
 
 ### [Monitoring & Cost Management](https://github.com/solutions-for-realvalue/Azure-Monitoring-CostManagement)
-
-Deployed Azure Monitor and AWS CloudWatch with dashboards and alerts for performance and cost optimization.
-
-* **Learning Resources:** [Troubleshooting Microsoft Azure Connectivity](https://www.udemy.com/course/az-720-troubleshooting-microsoft-azure-connectivity-course/), [Azure Monitoring](https://www.udemy.com/course/azure-infrastructure-managing-cost-governance-monitoring/)
-
-* **Learning Outcome:** Use Azure Monitor & Log Analytics for performance/cost tracking
+✅ Configured **Azure Monitor, Log Analytics, and Cost Optimization**.
 
 ---
 
-## Next Steps
-
-* [x] Achieve AZ-900 Certification
-* [ ] Pursue AZ-104 Certification (Azure Administrator)
-* [ ] Expand Infrastructure-as-Code knowledge with Terraform and ARM
-* [ ] Implement advanced cloud security measures (Azure Defender)
-* [ ] Further explore AI/ML integrations with Azure resources
+## **Next Steps**
+- [x] Complete **AZ-900 certification**
+- [ ] Progress to **AZ-104 preparation**
+- [ ] Expand **Terraform & IaC expertise**
+- [ ] Implement **advanced cloud security solutions**
 
 ---
 
-## Contributing & Collaboration
+## **Contributing & Collaboration**
 
-I'm always interested in collaborating on:
+I am open to collaborating on:
 
-* Cloud Infrastructure & Architecture
-* DevOps & CI/CD Automation
-* AI and automation projects
+- **Cloud Infrastructure & Automation**
+- **DevOps & CI/CD Pipelines**
+- **Security & AI-driven automation**
 
-Feel free to fork repositories, contribute, and open pull requests!
-
----
-
-## License
-
-Content and projects within this repository are licensed under the [MIT License](LICENSE).
+Feel free to **fork repositories, contribute, and open pull requests!**
 
 ---
 
-## Contact & Connect
+## **License**
 
+This repository is under the **MIT License**. See [LICENSE](LICENSE) for details.
+
+---
+
+## **Contact & Connect**
 📩 **Email:** [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)
 
-🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
+🔗 **LinkedIn:** [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
 
 ---
 
-**Let's Connect and Build the Future of Cloud Together**
-**!**
+**Let's build scalable, automated, and secure cloud solutions together!**
