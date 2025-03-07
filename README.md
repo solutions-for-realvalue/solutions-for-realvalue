@@ -63,16 +63,16 @@ Explore my structured **Azure Cloud Learning Path**:
 ## **Featured Azure Projects (Upcoming)**
 
 ### [Azure & AWS Infrastructure Automation with Terraform](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
-✅ Automated **Azure & AWS deployments** using Terraform.
+* Automated **Azure & AWS deployments** using Terraform.
 
 ### [Kubernetes Application Deployment on AKS](https://github.com/solutions-for-realvalue/AKS-Kubernetes-Deployment)
-✅ Deployed **scalable containerized applications** using Kubernetes & Helm.
+* Deployed **scalable containerized applications** using Kubernetes & Helm.
 
 ### [Cloud Security & Compliance](https://github.com/solutions-for-realvalue/Azure-Security-Compliance)
-✅ Implemented **RBAC, Azure Policy, and Defender for Cloud**.
+* Implemented **RBAC, Azure Policy, and Defender for Cloud**.
 
 ### [Monitoring & Cost Management](https://github.com/solutions-for-realvalue/Azure-Monitoring-CostManagement)
-✅ Configured **Azure Monitor, Log Analytics, and Cost Optimization**.
+* Configured **Azure Monitor, Log Analytics, and Cost Optimization**.
 
 ---
 
