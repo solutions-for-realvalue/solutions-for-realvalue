@@ -27,6 +27,7 @@ Welcome to my GitHub portfolio! I’m **Arnaldo Sepulveda**, a seasoned **Senior
 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
 ![Azure Virtual Machines](https://img.shields.io/badge/-Azure%20VMs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/-Azure%20SQL-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
