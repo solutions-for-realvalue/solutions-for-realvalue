@@ -8,16 +8,15 @@ Welcome to my GitHub portfolio! I’m **Arnaldo Sepulveda**, a seasoned **Senior
 
 - 🌐 **Cloud Expertise**: Over 10 years in IT with extensive experience in cloud engineering, system administration, SaaS integrations, and troubleshooting.
 - 📚 **Current Learning Focus**:
-  - **Microsoft Azure & AWS Infrastructure** *(Compute, Storage, Networking)*
-  - **Infrastructure as Code (IaC)** *(Terraform, ARM Templates, CloudFormation)*
-  - **Cloud Security & Compliance** *(Azure Defender, IAM, RBAC, AWS IAM, Security Groups)*
-  - **Automation & Monitoring** *(Azure Monitor, AWS CloudWatch, CI/CD, Ansible)*
+  - **Microsoft Azure Infrastructure** *(Compute, Storage, Networking)*
+  - **Infrastructure as Code (IaC)** *(Terraform, ARM Templates)*
+  - **Cloud Security & Compliance** *(Azure Defender, AWS IAM, Security Groups)*
+  - **Automation & Monitoring** *(Azure Monitor, CI/CD, Ansible)*
 - 🎓 **Education & Certifications**:
   - 🎓 **Full Stack Web Development Bootcamp (Honors)**
   - 🏅 **Certifications (Planned & In Progress)**:
     - **AZ-900** *(Microsoft Azure Fundamentals – In Progress)*
     - **AZ-104** *(Microsoft Azure Administrator – Next Goal)*
-    - **AWS Certified Cloud Practitioner** *(Planned)*
 
 ---
 
@@ -76,14 +75,22 @@ Follow my structured journey mastering Azure—from fundamentals (AZ-900) to rea
 ### ✅ [Azure & AWS Infrastructure Automation with Terraform](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
 Automated deployment of Azure & AWS resources (VMs, Storage, Network) with Terraform.
 
+**Learning Resources:** [AZ-900](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-with-simulations/), [AZ-104](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/), [Terraform 101](https://www.udemy.com/course/terraform-101-azure-edition/)
+
 ### 🚀 [Kubernetes Application Deployment on AKS](https://github.com/solutions-for-realvalue/AKS-Kubernetes-Deployment)
 Deployed a scalable containerized web application using Azure Kubernetes Service (AKS).
+
+**Learning Resources:** [Kubernetes on Azure](https://www.udemy.com/course/terraform-on-azure-services/), [AZ-104](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
 
 ### 🛡️ [Cloud Security & Compliance](https://github.com/solutions-for-realvalue/Azure-Security-Compliance)
 Implemented security best practices including RBAC, Azure Policy, and Azure Security Center.
 
+**Learning Resources:** [SC-900](https://www.udemy.com/course/md-100windows10course/), [Azure Security Best Practices](https://www.udemy.com/course/azure-security-best-practices/)
+
 ### 📈 [Monitoring & Cost Management](https://github.com/solutions-for-realvalue/Azure-Monitoring-CostManagement)
 Deployed Azure Monitor and AWS CloudWatch with dashboards and alerts for performance and cost optimization.
+
+**Learning Resources:** [Troubleshooting Microsoft Azure Connectivity](https://www.udemy.com/course/az-720-troubleshooting-microsoft-azure-connectivity-course/), [Azure Monitoring](https://www.udemy.com/course/azure-infrastructure-managing-cost-governance-monitoring/)
 
 ---
 
