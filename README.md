@@ -108,7 +108,12 @@ Deployed Azure Monitor and AWS CloudWatch with dashboards and alerts for perform
 
 ## 🤝 Contributing & Collaboration
 
-I’m open to collaborating on **Cloud Infrastructure**, **DevOps projects**, and **automation initiatives**. Feel free to connect for collaboration or knowledge exchange!
+I'm always interested in collaborating on:
+* Cloud Infrastructure & Architecture
+* DevOps & CI/CD Automation
+* AI and automation projects
+
+Feel free to fork repositories, contribute, and open pull requests!
 
 ---
 
@@ -121,7 +126,7 @@ Content and projects within this repository are licensed under the [MIT License]
 ## 📧 Contact & Connect
 
 - 📩 **Email:** [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
-<!-- - 🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda) -->
+- 🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
 
 ---
 
