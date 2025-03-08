@@ -85,7 +85,7 @@ Deployed a scalable containerized web application using Azure Kubernetes Service
 ### 🛡️ [Cloud Security & Compliance](https://github.com/solutions-for-realvalue/Azure-Security-Compliance)
 Implemented security best practices including RBAC, Azure Policy, and Azure Security Center.
 
-* **Learning Resources:** [SC-900](https://www.udemy.com/course/md-100windows10course/), [Azure Security Best Practices](https://www.udemy.com/course/azure-security-best-practices/)
+* **Learning Resources:** [SC-900](https://www.udemy.com/course/sc-900-microsoft-security-compliance-identity-with-sims), [Azure Security Best Practices](https://www.udemy.com/course/azure-security-best-practices/)
 * **Learning Outcome:** Implement IAM, RBAC, NSGs, and Defender for Cloud
 
 ### 📈 [Monitoring & Cost Management](https://github.com/solutions-for-realvalue/Azure-Monitoring-CostManagement)
