@@ -13,10 +13,11 @@ Welcome to my GitHub portfolio! I'm **Arnaldo Sepulveda**, a seasoned **Senior C
   - **Cloud Security & Compliance** *(Azure Defender, AWS IAM, Security Groups)*
   - **Automation & Monitoring** *(Azure Monitor, CI/CD, Ansible)*
 - 🎓 **Education & Certifications**:
-  - 🎓 **Full Stack Web Development Bootcamp (Honors)**
-  - 🏅 **Certifications (Planned & In Progress)**:
-    - **AZ-900** *(Microsoft Azure Fundamentals – In Progress)*
-    - **AZ-104** *(Microsoft Azure Administrator – Next Goal)*
+  - 🎓 **M.Sc. & B.Sc. in Electrical Engineering** *(University of New Brunswick)*
+  - 🎓 **Full Stack Web Development Bootcamp** *(University of New Brunswick)*
+  - 🏅 **Certifications**:
+    - ✅ **AZ-900** *(Azure Fundamentals - In Progress)*
+    - 🎯 **Next: AZ-104** *(Azure Administrator)*
 
 ---
 
