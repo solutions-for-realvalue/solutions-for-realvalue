@@ -8,10 +8,10 @@ Welcome to my GitHub portfolio! I'm **Arnaldo Sepulveda**, a seasoned **Senior C
 
 - 🌐 **Cloud Expertise**: 10+ years of professional experience delivering reliable cloud solutions, infrastructure automation, SaaS integrations, and advanced troubleshooting.
 - 📚 **Current Learning Focus**:
-  - **Microsoft Azure Infrastructure** *(Compute, Storage, Networking)*
-  - **Infrastructure as Code (IaC)** *(Terraform, ARM Templates)*
-  - **Cloud Security & Compliance** *(Azure Defender, AWS IAM, Security Groups)*
-  - **Automation & Monitoring** *(Azure Monitor, CI/CD, Ansible)*
+  - **Azure Infrastructure** *(Compute, Storage, Networking)*
+  - **IaC & Automation** *(Terraform, ARM Templates, Ansible)*
+  - **Cloud Security & Compliance** *(Azure Security Center, RBAC, AWS IAM)*
+  - **AI & ML Integrations** *(Azure AI, OpenAI API, Python)*
 - 🎓 **Education & Certifications**:
   - 🎓 **M.Sc. & B.Sc. in Electrical Engineering** *(University of New Brunswick)*
   - 🎓 **Full Stack Web Development Bootcamp** *(University of New Brunswick)*
