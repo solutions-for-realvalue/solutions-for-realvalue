@@ -62,8 +62,6 @@ Welcome to my GitHub portfolio! I’m **Arnaldo Sepulveda**, a seasoned **Senior
 
 ---
 
----
-
 ## 🚀 [My Cloud Specialist Journey](https://github.com/solutions-for-realvalue/Cloud-Specialist-Journey)
 
 Follow my structured journey mastering Azure—from fundamentals (AZ-900) to real-world cloud solutions.
@@ -75,22 +73,26 @@ Follow my structured journey mastering Azure—from fundamentals (AZ-900) to rea
 ### ✅ [Azure & AWS Infrastructure Automation with Terraform](https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation)
 Automated deployment of Azure & AWS resources (VMs, Storage, Network) with Terraform.
 
-**Learning Resources:** [AZ-900](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-with-simulations/), [AZ-104](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/), [Terraform 101](https://www.udemy.com/course/terraform-101-azure-edition/)
+* **Learning Resources:** [AZ-900](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-with-simulations/), [AZ-104](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/), [Terraform 101](https://www.udemy.com/course/terraform-101-azure-edition/)
+* **Learning Outcome:** Automate Azure resource provisioning (VMs, Storage, Networking)
 
 ### 🚀 [Kubernetes Application Deployment on AKS](https://github.com/solutions-for-realvalue/AKS-Kubernetes-Deployment)
 Deployed a scalable containerized web application using Azure Kubernetes Service (AKS).
 
-**Learning Resources:** [Kubernetes on Azure](https://www.udemy.com/course/terraform-on-azure-services/), [AZ-104](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
+* **Learning Resources:** [Kubernetes on Azure](https://www.udemy.com/course/terraform-on-azure-services/), [AZ-104](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
+* **Learning Outcome:** Deploy scalable containerized workloads using Kubernetes on Azure
 
 ### 🛡️ [Cloud Security & Compliance](https://github.com/solutions-for-realvalue/Azure-Security-Compliance)
 Implemented security best practices including RBAC, Azure Policy, and Azure Security Center.
 
-**Learning Resources:** [SC-900](https://www.udemy.com/course/md-100windows10course/), [Azure Security Best Practices](https://www.udemy.com/course/azure-security-best-practices/)
+* **Learning Resources:** [SC-900](https://www.udemy.com/course/md-100windows10course/), [Azure Security Best Practices](https://www.udemy.com/course/azure-security-best-practices/)
+* **Learning Outcome:** Implement IAM, RBAC, NSGs, and Defender for Cloud
 
 ### 📈 [Monitoring & Cost Management](https://github.com/solutions-for-realvalue/Azure-Monitoring-CostManagement)
 Deployed Azure Monitor and AWS CloudWatch with dashboards and alerts for performance and cost optimization.
 
-**Learning Resources:** [Troubleshooting Microsoft Azure Connectivity](https://www.udemy.com/course/az-720-troubleshooting-microsoft-azure-connectivity-course/), [Azure Monitoring](https://www.udemy.com/course/azure-infrastructure-managing-cost-governance-monitoring/)
+*  **Learning Resources:** [Troubleshooting Microsoft Azure Connectivity](https://www.udemy.com/course/az-720-troubleshooting-microsoft-azure-connectivity-course/), [Azure Monitoring](https://www.udemy.com/course/azure-infrastructure-managing-cost-governance-monitoring/)
+* **Learning Outcome:** Use Azure Monitor & Log Analytics for performance/cost tracking
 
 ---
 
