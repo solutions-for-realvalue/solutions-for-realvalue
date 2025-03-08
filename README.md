@@ -1,12 +1,12 @@
-# ☁️ Senior Cloud Specialist | Azure & AWS Infrastructure | DevOps & Automation
+# ☁️ Senior Cloud Engineer | Azure & AWS Specialist | DevOps & AI Automation
 
-Welcome to my GitHub portfolio! I’m **Arnaldo Sepulveda**, a seasoned **Senior Cloud Engineer** currently transitioning into a **Azure Cloud Specialist** role. I specialize in designing, deploying, and optimizing secure and efficient **Azure cloud infrastructure** to support business-critical applications and services.
+Welcome to my GitHub portfolio! I'm **Arnaldo Sepulveda**, a seasoned **Senior Cloud Engineer** specializing in secure, scalable, and automated cloud solutions across **Azure** and **AWS**. My expertise includes **Infrastructure as Code (IaC)**, **cloud security**, **AI-driven automation**, and **SaaS integrations**.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌐 **Cloud Expertise**: Over 10 years in IT with extensive experience in cloud engineering, system administration, SaaS integrations, and troubleshooting.
+- 🌐 **Cloud Expertise**: 10+ years of professional experience delivering reliable cloud solutions, infrastructure automation, SaaS integrations, and advanced troubleshooting.
 - 📚 **Current Learning Focus**:
   - **Microsoft Azure Infrastructure** *(Compute, Storage, Networking)*
   - **Infrastructure as Code (IaC)** *(Terraform, ARM Templates)*
