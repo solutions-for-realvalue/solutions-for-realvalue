@@ -97,7 +97,7 @@ Deployed Azure Monitor and AWS CloudWatch with dashboards and alerts for perform
 
 ---
 
-## 📌 Next Steps
+## Next Steps
 *   [x] Achieve AZ-900 Certification
 *   [ ] Pursue AZ-104 Certification (Azure Administrator)
 *   [ ] Expand Infrastructure-as-Code knowledge with Terraform and ARM
@@ -125,9 +125,10 @@ Content and projects within this repository are licensed under the [MIT License]
 
 ## 📧 Contact & Connect
 
-*   📩 **Email:** [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
-*   🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
+📩 **Email:** [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)
+
+🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
 
 ---
 
-## 🌟 Let's Connect and Build the Future of Cloud Together! 🚀
+## Let's Connect and Build the Future of Cloud Together!
