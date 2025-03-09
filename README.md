@@ -16,7 +16,7 @@ Welcome to my GitHub portfolio! I'm **Arnaldo Sepulveda**, a seasoned **Senior C
   * **M.Sc. & B.Sc. in Electrical Engineering** *(University of New Brunswick)*
   * **Full Stack Web Development Certificate (Honors)** *(University of New Brunswick)*
 * **Certifications**:
-  * **AZ-900** *(Azure Fundamentals *   In Progress)*
+  * **AZ-900** *(Azure Fundamentals - In Progress)*
   * **Next: AZ-104** *(Azure Administrator)*
 
 ---
@@ -138,4 +138,5 @@ Content and projects within this repository are licensed under the [MIT License]
 
 ---
 
-## Let's Connect and Build the Future of Cloud Together
+**Let's Connect and Build the Future of Cloud Together**
+**!**
