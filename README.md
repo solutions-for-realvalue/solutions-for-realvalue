@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio! I'm **Arnaldo Sepulveda**, a seasoned **Senior C
   *   **AI & ML Integrations** *(Azure AI, OpenAI API, Python)*
 *   🎓 **Education & Certifications**:
     *   🎓 **M.Sc. & B.Sc. in Electrical Engineering** *(University of New Brunswick)*
-    *   🎓 **Full Stack Web Development Bootcamp (Honors)** *(University of New Brunswick)*
+    *   🎓 **Full Stack Web Development Certificate (Honors)** *(University of New Brunswick)*
 *   🏅 **Certifications**:
     *   ✅ **AZ-900** *(Azure Fundamentals *   In Progress)*
     *   🎯 **Next: AZ-104** *(Azure Administrator)*
