@@ -1,27 +1,27 @@
-# ☁️ Senior Cloud Engineer | Azure & AWS Specialist | DevOps & AI Automation
+# Senior Cloud Engineer | Azure & AWS Specialist | DevOps & AI Automation
 
 Welcome to my GitHub portfolio! I'm **Arnaldo Sepulveda**, a seasoned **Senior Cloud Engineer** specializing in secure, scalable, and automated cloud solutions across **Azure** and **AWS**. My expertise includes **Infrastructure as Code (IaC)**, **cloud security**, **AI-driven automation**, and **SaaS integrations**.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-* 🌐 **Cloud Expertise**: 10+ years of professional experience delivering reliable cloud solutions, infrastructure automation, SaaS integrations, and advanced troubleshooting.
-* 📚 **Current Learning Focus**:
+* **Cloud Expertise**: 10+ years of professional experience delivering reliable cloud solutions, infrastructure automation, SaaS integrations, and advanced troubleshooting.
+* **Current Learning Focus**:
   * **Azure Infrastructure** *(Compute, Storage, Networking)*
   * **IaC & Automation** *(Terraform, ARM Templates, Ansible)*
   * **Cloud Security & Compliance** *(Azure Security Center, RBAC, AWS IAM)*
   * **AI & ML Integrations** *(Azure AI, OpenAI API, Python)*
-* 🎓 **Education & Certifications**:
-  * 🎓 **M.Sc. & B.Sc. in Electrical Engineering** *(University of New Brunswick)*
-  * 🎓 **Full Stack Web Development Certificate (Honors)** *(University of New Brunswick)*
-* 🏅 **Certifications**:
-  * ✅ **AZ-900** *(Azure Fundamentals *   In Progress)*
-  * 🎯 **Next: AZ-104** *(Azure Administrator)*
+* **Education & Certifications**:
+  * **M.Sc. & B.Sc. in Electrical Engineering** *(University of New Brunswick)*
+  * **Full Stack Web Development Certificate (Honors)** *(University of New Brunswick)*
+* **Certifications**:
+  * **AZ-900** *(Azure Fundamentals *   In Progress)*
+  * **Next: AZ-104** *(Azure Administrator)*
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Cloud & Infrastructure
 
@@ -112,7 +112,7 @@ Deployed Azure Monitor and AWS CloudWatch with dashboards and alerts for perform
 
 ---
 
-## 🤝 Contributing & Collaboration
+## Contributing & Collaboration
 
 I'm always interested in collaborating on:
 
@@ -124,13 +124,13 @@ Feel free to fork repositories, contribute, and open pull requests!
 
 ---
 
-## 📜 License
+## License
 
 Content and projects within this repository are licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📧 Contact & Connect
+## Contact & Connect
 
 📩 **Email:** [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)
 
