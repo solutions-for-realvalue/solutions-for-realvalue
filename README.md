@@ -138,4 +138,4 @@ Content and projects within this repository are licensed under the [MIT License]
 
 ---
 
-## Let's Connect and Build the Future of Cloud Together!
+## Let's Connect and Build the Future of Cloud Together
