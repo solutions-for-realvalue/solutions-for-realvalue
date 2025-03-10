@@ -6,18 +6,18 @@ Welcome to my GitHub portfolio! I'm **Arnaldo Sepulveda**, a seasoned **Senior C
 
 ## 👨‍💻 About Me
 
-- 🌐 **Cloud Expertise**: 10+ years of professional experience delivering reliable cloud solutions, infrastructure automation, SaaS integrations, and advanced troubleshooting.
-- 📚 **Current Learning Focus**:
-  - **Azure Infrastructure** *(Compute, Storage, Networking)*
-  - **IaC & Automation** *(Terraform, ARM Templates, Ansible)*
-  - **Cloud Security & Compliance** *(Azure Security Center, RBAC, AWS IAM)*
-  - **AI & ML Integrations** *(Azure AI, OpenAI API, Python)*
-- 🎓 **Education & Certifications**:
-  - 🎓 **M.Sc. & B.Sc. in Electrical Engineering** *(University of New Brunswick)*
-  - 🎓 **Full Stack Web Development Bootcamp (Honors)** *(University of New Brunswick)*
-  - 🏅 **Certifications**:
-    - ✅ **AZ-900** *(Azure Fundamentals - In Progress)*
-    - 🎯 **Next: AZ-104** *(Azure Administrator)*
+*   🌐 **Cloud Expertise**: 10+ years of professional experience delivering reliable cloud solutions, infrastructure automation, SaaS integrations, and advanced troubleshooting.
+*   📚 **Current Learning Focus**:
+  *   **Azure Infrastructure** *(Compute, Storage, Networking)*
+  *   **IaC & Automation** *(Terraform, ARM Templates, Ansible)*
+  *   **Cloud Security & Compliance** *(Azure Security Center, RBAC, AWS IAM)*
+  *   **AI & ML Integrations** *(Azure AI, OpenAI API, Python)*
+*   🎓 **Education & Certifications**:
+    *   🎓 **M.Sc. & B.Sc. in Electrical Engineering** *(University of New Brunswick)*
+    *   🎓 **Full Stack Web Development Bootcamp (Honors)** *(University of New Brunswick)*
+*   🏅 **Certifications**:
+    *   ✅ **AZ-900** *(Azure Fundamentals *   In Progress)*
+    *   🎯 **Next: AZ-104** *(Azure Administrator)*
 
 ---
 
@@ -98,11 +98,11 @@ Deployed Azure Monitor and AWS CloudWatch with dashboards and alerts for perform
 ---
 
 ## 📌 Next Steps
-- [x] Achieve AZ-900 Certification
-- [ ] Pursue AZ-104 Certification (Azure Administrator)
-- [ ] Expand Infrastructure-as-Code knowledge with Terraform and ARM
-- [ ] Implement advanced cloud security measures (Azure Defender)
-- [ ] Further explore AI/ML integrations with Azure resources
+*   [x] Achieve AZ-900 Certification
+*   [ ] Pursue AZ-104 Certification (Azure Administrator)
+*   [ ] Expand Infrastructure-as-Code knowledge with Terraform and ARM
+*   [ ] Implement advanced cloud security measures (Azure Defender)
+*   [ ] Further explore AI/ML integrations with Azure resources
 
 ---
 
@@ -125,8 +125,8 @@ Content and projects within this repository are licensed under the [MIT License]
 
 ## 📧 Contact & Connect
 
-- 📩 **Email:** [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
-- 🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
+*   📩 **Email:** [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
+*   🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
 
 ---
 
