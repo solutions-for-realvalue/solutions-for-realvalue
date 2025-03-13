@@ -105,8 +105,6 @@ This repository is under the **MIT License**. See [LICENSE](LICENSE) for details
 ## **Contact & Connect**
 📩 **Email:** [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)
 
-🔗 **LinkedIn:** [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
-
 ---
 
 **Let's build scalable, automated, and secure cloud solutions together!**
