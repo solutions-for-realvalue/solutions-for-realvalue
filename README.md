@@ -31,7 +31,7 @@ Building proof-of-concept systems that demonstrate:
 
 ---
 
-## 📂 Active Projects
+## Active Projects
 
 Explore my key repositories below or visit my main project hub:  
 🔗 [solutions-for-realvalue.github.io](https://solutions-for-realvalue.github.io)
