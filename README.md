@@ -42,5 +42,5 @@ Explore my key repositories below or visit my main project hub:
 
 If you’re passionate about designing conscious systems or building AI-driven infrastructure that actually serves people — let’s connect!
 
-🌐 Canada-based | 🧭 Globally Oriented  
+Canada-based | 🧭 Globally Oriented  
 📩 natureuplift@protonmail.com
