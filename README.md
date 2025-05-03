@@ -38,7 +38,7 @@ Explore my key repositories below or visit my main project hub:
 
 ---
 
-## 📫 Let’s Collaborate
+## Let’s Collaborate
 
 If you’re passionate about designing conscious systems or building AI-driven infrastructure that actually serves people — let’s connect!
 
