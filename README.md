@@ -22,7 +22,7 @@ I design and implement scalable, secure, and human-centric systems at the inters
 
 ---
 
-## 🔬 Current Focus
+## Current Focus
 
 🚧 Building proof-of-concept systems that demonstrate:
 - AI-powered knowledge tools (e.g., Fire Department RAG assistant)
