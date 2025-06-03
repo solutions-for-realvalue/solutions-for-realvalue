@@ -24,7 +24,7 @@ I design and implement scalable, secure, and human-centric systems at the inters
 
 ## Current Focus
 
-🚧 Building proof-of-concept systems that demonstrate:
+Building proof-of-concept systems that demonstrate:
 - AI-powered knowledge tools (e.g., Fire Department RAG assistant)
 - Smart automation for residential/commercial spaces
 - GitHub portfolio projects combining AI, cloud, and real-world impact
