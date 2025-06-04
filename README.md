@@ -10,15 +10,15 @@ To architect intelligent, adaptive systems that empower humanity and the planet 
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
 I design and implement scalable, secure, and human-centric systems at the intersection of:
 
-- 🤖 **AI-Driven Systems Design** (LLMs, RAG, MLOps)
-- ☁️ **Cloud-Native Infrastructure** (AWS, Azure, DevOps)
-- 🏙️ **Smart Space & IoT Integration** (Digital Twins, Automation)
-- 📊 **Data Intelligence** (Pipelines, Observability, Decision Support)
-- 🌍 **Conscious Systems** (Sustainability, Ethics, Systems Thinking)
+- **AI-Driven Systems Design** (LLMs, RAG, MLOps)
+- **Cloud-Native Infrastructure** (AWS, Azure, DevOps)
+- **Smart Space & IoT Integration** (Digital Twins, Automation)
+- **Data Intelligence** (Pipelines, Observability, Decision Support)
+- **Conscious Systems** (Sustainability, Ethics, Systems Thinking)
 
 ---
 
